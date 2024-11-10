@@ -1,0 +1,45 @@
+postgres:
+  username:
+  password:
+  host:
+  port:
+flask:
+  port:
+  host:
+  debug:
+  secret:
+domain:
+  url:
+  domain:
+redis:
+  host:
+  port:
+  db:
+  token_db:
+  verification_db:
+  socket_db:
+  cache_db:
+  password:
+yandex_store:
+  url:
+  access_id:
+  access_key:
+  bucket_small:
+  bucket_medium:
+bot:
+  token:
+google:
+  client_id:
+mode: release / test / dev
+cors:
+  origins:
+    - источник запроса
+telegram_groups:
+  antalya:
+  istanbul:
+smtp:
+  host:
+  port:
+  from:
+  username:
+  password:
